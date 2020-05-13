@@ -80,7 +80,6 @@ def basenum_sort(arr):
     return a
 
 
-# 堆排序
 # 调整非叶结点的父子大小关系
 def heap_node_sort(a, i, new_length):
     if a[2*i+1] > a[i]:
