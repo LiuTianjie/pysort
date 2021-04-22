@@ -45,3 +45,4 @@ def insert_sort(arr):
                 a.pop(i+1)
     return a
 ```
+### Add Rust sort
